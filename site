@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BrainBoost - Soutien Scolaire</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #004d99;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+        .cta {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .cta button {
+            background-color: #ff9900;
+            color: #fff;
+            border: none;
+            padding: 15px 20px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .cta button:hover {
+            background-color: #e68a00;
+        }
+        h2 {
+            color: #004d99;
+        }
+        .service {
+            background-color: #e0f7fa;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #004d99;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- En-tête -->
+    <header>
+        <h1>BrainBoost - Accompagnez votre enfant vers la réussite</h1>
+        <p>Soutien scolaire dispensé par des étudiants de Grandes Écoles à partir de 10€/heure</p>
+    </header>
+
+    <!-- Contenu principal -->
+    <div class="container">
+
+        <!-- Appel Gratuit -->
+        <div class="cta">
+            <h2>Réservez votre consultation gratuite</h2>
+            <p>Nous définissons ensemble l'accompagnement idéal pour la réussite de votre enfant.</p>
+            <button>Contactez-nous</button>
+        </div>
+
+        <!-- Description des services -->
+        <section>
+            <h2>Nos Mentors : La crème de la crème</h2>
+            <p>Nos mentors ne sont pas de simples profs particuliers. Nous cherchons à motiver nos élèves et à élargir leurs perspectives pour qu’ils puissent exceller dans leur domaine. Nous sélectionnons uniquement les meilleurs profils parmi des milliers de candidats des grandes écoles - la crème de la crème.</p>
+        </section>
+
+        <!-- Services des mentors -->
+        <div class="service">
+            <h3>Polyvalence et expérience</h3>
+            <p>Nos mentors sont aussi bons en Mathématiques qu'en Anglais. Plus besoin de chercher un professeur par matière, nos tuteurs sont polyvalents et expérimentés.</p>
+        </div>
+
+        <!-- Priorité à la réussite -->
+        <section>
+            <h2>La réussite de votre enfant est notre priorité</h2>
+            <p>Chez BrainBoost, la réussite de votre enfant est notre objectif principal. Nos mentors sont là pour vous aider à définir un plan d'action détaillé adapté à ses besoins.</p>
+        </section>
+
+        <!-- Contact -->
+        <section id="contact">
+            <h2>Contactez-nous</h2>
+            <p>Nous sommes à votre écoute pour vous aider à définir la meilleure solution pour votre enfant.</p>
+            <div>
+                <p><strong>Téléphone :</strong> 06.34.66.53.59</p>
+                <p><strong>Email :</strong> <a href="mailto:brainboostcontact@gmail.com">brainboostcontact@gmail.com</a></p>
+                <p><strong>Adresse :</strong> Notre centre à Clichy</p>
+            </div>
+        </section>
+    </div>
+
+    <!-- Pied de page -->
+    <footer>
+        <p>© 2024 BrainBoost. Tous droits réservés.</p>
+    </footer>
+
+</body>
+</html>
